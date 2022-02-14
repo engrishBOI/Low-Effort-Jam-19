@@ -4,7 +4,7 @@ function love.conf(t)
   t.version="11.3"
   t.console=false
   
-  t.window.title="bigBOY"
+  t.window.title="idklmao"
   t.window.width=200
   t.window.height=200
   t.window.borderless=false
